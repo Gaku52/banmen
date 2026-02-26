@@ -1,5 +1,9 @@
 # 盤面 (Banmen)
 
+<p align="center">
+  <img src="assets/app-icon.png" alt="盤面 App Icon" width="200">
+</p>
+
 **デジタル時代の揮発性ワーキングメモリ**
 
 > 4つだけ見える。終わったら消える。
