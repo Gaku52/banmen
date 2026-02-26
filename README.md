@@ -1,7 +1,7 @@
 # 盤面 (Banmen)
 
 <p align="center">
-  <img src="assets/app-icon.png" alt="盤面 App Icon" width="200">
+  <img src="assets/app-icon.png" alt="盤面 App Icon" width="200" height="200">
 </p>
 
 **デジタル時代の揮発性ワーキングメモリ**
