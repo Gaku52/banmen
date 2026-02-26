@@ -97,7 +97,8 @@
 - Next.js + Service Worker
 - 全デバイス対応の土台
 - ローカルストレージのみ（サーバー不要）
-- デプロイ: Vercel
+- デプロイ: Cloudflare Workers (`@opennextjs/cloudflare`)
+- ドメイン: Cloudflare Registrar
 
 ### Phase 2: Notion Embed
 - PWAのURLをNotionに貼るだけ

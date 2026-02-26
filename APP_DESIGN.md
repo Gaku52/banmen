@@ -119,7 +119,8 @@ type BanmenState = {
 - UI: React + CSS Modules (軽量優先)
 - 状態管理: React state + custom hook (`useBanmenState`)
 - PWA: `next-pwa` + manifest + service worker
-- デプロイ: Vercel
+- デプロイ: Cloudflare Workers (`@opennextjs/cloudflare`)
+- ドメイン: Cloudflare Registrar
 
 推奨ディレクトリ:
 
